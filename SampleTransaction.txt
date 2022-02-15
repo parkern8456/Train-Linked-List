@@ -1,0 +1,5 @@
+A;coach,RDC1243,30
+A;box,Reading1,30
+D;NAHX32886
+D;Reading1
+R;CSX12003;box,CSC13000,30
